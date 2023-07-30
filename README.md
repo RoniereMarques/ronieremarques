@@ -1,16 +1,44 @@
-### Hi there 👋
+# Olá, eu sou Roniere Marques 👋
 
-<!--
-**RoniereMarques/RoniereMarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, sou desenvolvedor Full Stacks e adoro trabalhar em projetos desafiadores.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou trabalhando em [ProSales](https://prosales.blogs-tutorials.com/)
+- 🌱 Estou aprendendo mais sobre [Marketing de Conteúdo]
+- 💬 Pergunte-me sobre [Programação]
+- 📫 Como me encontrar: [rff81594@gmail.com] ou [https://www.blogs-tutorials.com/]
+
+## Habilidades
+
+Aqui estão algumas das tecnologias e habilidades em que sou experiente:
+
+- Linguagens de programação: [JavaScript, Python]
+- Frameworks e bibliotecas: [React, Node.js]
+- Banco de dados: [MongoDB é MySQL]
+- Ferramentas de desenvolvimento: [Git, VSCode, GitHub.]
+- Outras habilidades: [Marketing Digital]
+
+## Projetos
+
+Aqui estão alguns projetos em que trabalhei:
+
+- [ProSales](https://prosales.blogs-tutorials.com/)
+- [Blogs Tutorials](https://www.blogs-tutorials.com/)
+- [API REST](https://prosales.blogs-tutorials.com/)
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RoniereMarques&show_icons=true)
+
+## Como me contatar
+
+- E-mail: [rff81594@gmail.com]
+- Site: [https://ronieremarques.blogs-tutorials.com/]
+
+## Vamos nos conectar
+
+- Discord: ronieremarques
+- YouTube: @RoniereMarques
+
+Fique à vontade para me contatar para conversarmos sobre tecnologia, projetos interessantes ou apenas para trocar algumas ideias. Estou sempre disposto a colaborar e aprender com outras pessoas!
