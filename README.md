@@ -13,7 +13,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, sou des
 
 Aqui estão algumas das tecnologias e habilidades em que sou experiente:
 
-- Linguagens de programação: JavaScript, Python
+- Linguagens de programação: JavaScript, Python, CSS, HTML.
 - Frameworks e bibliotecas: React, Node.js
 - Banco de dados: MongoDB é MySQL.
 - Ferramentas de desenvolvimento: Git, VSCode, GitHub.
