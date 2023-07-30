@@ -5,19 +5,19 @@
 Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, sou desenvolvedor Full Stacks e adoro trabalhar em projetos desafiadores.
 
 - 🔭 Atualmente estou trabalhando em [ProSales](https://prosales.blogs-tutorials.com/)
-- 🌱 Estou aprendendo mais sobre [Marketing de Conteúdo]
-- 💬 Pergunte-me sobre [Programação]
-- 📫 Como me encontrar: [rff81594@gmail.com] ou [https://www.blogs-tutorials.com/]
+- 🌱 Estou aprendendo mais sobre Marketing de Conteúdo
+- 💬 Pergunte-me sobre Programação
+- 📫 Como me encontrar: rff81594@gmail.com ou https://www.blogs-tutorials.com/
 
 ## Habilidades
 
 Aqui estão algumas das tecnologias e habilidades em que sou experiente:
 
-- Linguagens de programação: [JavaScript, Python]
-- Frameworks e bibliotecas: [React, Node.js]
-- Banco de dados: [MongoDB é MySQL]
-- Ferramentas de desenvolvimento: [Git, VSCode, GitHub.]
-- Outras habilidades: [Marketing Digital]
+- Linguagens de programação: JavaScript, Python
+- Frameworks e bibliotecas: React, Node.js
+- Banco de dados: MongoDB é MySQL.
+- Ferramentas de desenvolvimento: Git, VSCode, GitHub.
+- Outras habilidades: Marketing Digital
 
 ## Projetos
 
@@ -27,14 +27,10 @@ Aqui estão alguns projetos em que trabalhei:
 - [Blogs Tutorials](https://www.blogs-tutorials.com/)
 - [API REST](https://prosales.blogs-tutorials.com/)
 
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RoniereMarques&show_icons=true)
-
 ## Como me contatar
 
-- E-mail: [rff81594@gmail.com]
-- Site: [https://ronieremarques.blogs-tutorials.com/]
+- E-mail: rff81594@gmail.com
+- Site: https://ronieremarques.blogs-tutorials.com/
 
 ## Vamos nos conectar
 
