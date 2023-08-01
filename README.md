@@ -1,15 +1,17 @@
 # Olá, eu sou Roniere Marques 👋
-> ℹ️ **Informação**
+> 🤗 **~Bem-Vindo(a)**
 >
-> Esta é uma mensagem de informação. Use essa seção para fornecer informações importantes, dicas ou qualquer outro conteúdo relevante que você deseja destacar.
+> Ao meu perfil do GitHub, aqui eu posto alguns dos meus códigos para vocês poderem pegar exemplos ou até mesmo edita-lós de acordo com oque vocês estão criando ai na máquina de vocês :D
 >
-> Exemplo de Uso:
+> Exemplo de códigos:
 >
+> ```js
+// criando constantes para armazena meus valores fixos >:
+const RoniereMarques_idade = 17
+const Ronieremarques_nome = "Roniere Marques"
+// mostrando no console meu nome é idade /:
+console.log("nome: " + RoniereMarques_idade, "idade: " + RoniereMarques_idade)
 > ```
-> > ℹ️ **Informação**
-> >
-> > Esta é uma mensagem de informação. Use essa seção para fornecer informações importantes, dicas ou qualquer outro conteúdo relevante que você deseja destacar.
-> > ```
 Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, sou desenvolvedor Full Stacks e adoro trabalhar em projetos desafiadores.
 
 - 🔭 Atualmente estou trabalhando em [ProSales](https://prosales.blogs-tutorials.com/)
