@@ -3,7 +3,7 @@
 >
 > Ao meu perfil do GitHub, aqui eu posto alguns dos meus códigos para vocês poderem pegar exemplos ou até mesmo edita-lós de acordo com oque vocês estão criando ai na máquina de vocês :D
 >
-> Exemplo de códigos:
+> Exemplo de código em JavaScript:
 >
 > ```js
 > // criando constantes para armazena meus valores fixos >:
