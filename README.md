@@ -1,7 +1,5 @@
 # Olá, eu sou Roniere Marques 👋
 
-## Sobre mim
-
 Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, sou desenvolvedor Full Stacks e adoro trabalhar em projetos desafiadores.
 
 - 🔭 Atualmente estou trabalhando em [ProSales](https://prosales.blogs-tutorials.com/)
