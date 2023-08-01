@@ -1,5 +1,5 @@
 # Olá, eu sou Roniere Marques 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronieremarques&layout=compact&theme=radical)
+
 ## Sobre mim
 
 Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, sou desenvolvedor Full Stacks e adoro trabalhar em projetos desafiadores.
@@ -39,3 +39,4 @@ Aqui estão alguns projetos em que trabalhei:
 
 Fique à vontade para me contatar para conversarmos sobre tecnologia, projetos interessantes ou apenas para trocar algumas ideias. Estou sempre disposto a colaborar e aprender com outras pessoas!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronieremarques&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronieremarques&layout=compact&theme=radical)
