@@ -48,6 +48,3 @@ Aqui estão alguns projetos em que trabalhei:
 - YouTube: @RoniereMarques
 
 Fique à vontade para me contatar para conversarmos sobre tecnologia, projetos interessantes ou apenas para trocar algumas ideias. Estou sempre disposto a colaborar e aprender com outras pessoas!
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronieremarques&layout=compact&theme=radical" alt="Linguagens Mais Usadas">
-</div>
