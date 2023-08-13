@@ -6,6 +6,16 @@
 > Exemplo de código em JavaScript:
 >
 > ```js
+> # criando variáveis para armazenar meus valores fixos >:
+> RoniereMarques_idade = 17
+> RoniereMarques_nome = "Roniere Marques"
+> # mostrando no console meu nome e idade /:
+> print("nome:", RoniereMarques_nome, "idade:", RoniereMarques_idade)
+> ```
+> 
+> Exemplo de código em Python:
+>
+> ```py
 > // criando constantes para armazena meus valores fixos >:
 > const RoniereMarques_idade = 17
 > const Ronieremarques_nome = "Roniere Marques"
