@@ -3,9 +3,9 @@
 >
 > Ao meu perfil do GitHub, aqui eu posto alguns dos meus códigos para vocês poderem pegar exemplos ou até mesmo edita-lós de acordo com oque vocês estão criando ai na máquina de vocês :D
 >
-> Exemplo de código em JavaScript:
+> Exemplo de código em Python:
 >
-> ```js
+> ```py
 > # criando variáveis para armazenar meus valores fixos >:
 > RoniereMarques_idade = 17
 > RoniereMarques_nome = "Roniere Marques"
@@ -13,9 +13,9 @@
 > print("nome:", RoniereMarques_nome, "idade:", RoniereMarques_idade)
 > ```
 > 
-> Exemplo de código em Python:
+> Exemplo de código em JavaScript:
 >
-> ```py
+> ```js
 > // criando constantes para armazena meus valores fixos >:
 > const RoniereMarques_idade = 17
 > const Ronieremarques_nome = "Roniere Marques"
