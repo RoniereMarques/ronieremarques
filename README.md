@@ -35,7 +35,7 @@ Aqui estão alguns projetos em que trabalhei:
 
 - [ProSales](https://prosales.blogs-tutorials.com/)
 - [Blogs Tutorials](https://www.blogs-tutorials.com/)
-- [API REST](https://prosales.blogs-tutorials.com/)
+- [API REST](https://prosales.blogs-tutorials.com/api2)
 
 ## Como me contatar
 
