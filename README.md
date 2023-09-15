@@ -50,7 +50,7 @@ Aqui estão alguns projetos em que trabalhei:
 ## Como me contatar
 
 - E-mail: rff81594@gmail.com
-- Site: https://ronieremarques.blogs-tutorials.com/
+- Site: https://ronieremarques.blogs-tutorials.com
 
 ## Vamos nos conectar
 
