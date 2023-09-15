@@ -55,6 +55,8 @@ Aqui estão alguns projetos em que trabalhei:
 ## Vamos nos conectar
 
 - Discord: ronieremarques
-- YouTube: @RoniereMarques
+- WhatsApp: +55 (11) 91677-1471
+- Telefone: +55 (11) 91677-1471
+- Instagram: @ronieremarquesz
 
 Fique à vontade para me contatar para conversarmos sobre tecnologia, projetos interessantes ou apenas para trocar algumas ideias. Estou sempre disposto a colaborar e aprender com outras pessoas!
