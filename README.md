@@ -44,7 +44,7 @@ Aqui estão algumas das tecnologias e habilidades em que sou experiente:
 Aqui estão alguns projetos em que trabalhei:
 
 - [ProSales](https://prosales.blogs-tutorials.com/)
-- [Blogs Tutorials](https://www.blogs-tutorials.com/)
+- [Blogs Tutorials](https://blogs-tutorials.com/)
 - [API REST](https://prosales.blogs-tutorials.com/api2)
 - [IA - Escritor automático](https://propostens.blogs-tutorials.com/)
 ## Como me contatar
