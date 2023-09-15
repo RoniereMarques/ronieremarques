@@ -24,7 +24,7 @@
 > ```
 Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, sou desenvolvedor Full Stacks e adoro trabalhar em projetos desafiadores.
 
-- 🔭 Atualmente estou trabalhando em [ProSales](https://prosales.blogs-tutorials.com/)
+- 🔭 Atualmente estou trabalhando em [ProSales](https://prosales.blogs-tutorials.com/) é [IA - Escritor automático](https://propostens.blogs-tutorials.com/)
 - 🌱 Estou aprendendo mais sobre Marketing de Conteúdo
 - 💬 Pergunte-me sobre Programação
 - 📫 Como me encontrar: rff81594@gmail.com ou https://blogs-tutorials.com
@@ -46,7 +46,7 @@ Aqui estão alguns projetos em que trabalhei:
 - [ProSales](https://prosales.blogs-tutorials.com/)
 - [Blogs Tutorials](https://www.blogs-tutorials.com/)
 - [API REST](https://prosales.blogs-tutorials.com/api2)
-
+- [IA - Escritor automático](https://propostens.blogs-tutorials.com/)
 ## Como me contatar
 
 - E-mail: rff81594@gmail.com
