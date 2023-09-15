@@ -27,7 +27,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, sou des
 - 🔭 Atualmente estou trabalhando em [ProSales](https://prosales.blogs-tutorials.com/)
 - 🌱 Estou aprendendo mais sobre Marketing de Conteúdo
 - 💬 Pergunte-me sobre Programação
-- 📫 Como me encontrar: rff81594@gmail.com ou https://www.blogs-tutorials.com/
+- 📫 Como me encontrar: rff81594@gmail.com ou https://blogs-tutorials.com
 
 ## Habilidades
 
