@@ -1,8 +1,11 @@
 # Olá, eu sou Roniere Marques 👋
 > ```js
+> /* verifica se você esta no GitHub */
 > if (github === true) {
+> /* se esta mostra: "Foda-se" no console */
 > console.log('Foda-se');
 > } else {
+> /* se não estiver mostra: "wtf" no console */
 > console.log('wtf');
 > }
 > ```
