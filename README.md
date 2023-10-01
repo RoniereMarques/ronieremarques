@@ -1,4 +1,11 @@
 # Olá, eu sou Roniere Marques 👋
+> ```js
+> if (github === true) {
+> console.log('Foda-se');
+> } else {
+> console.log('wtf');
+> }
+> ```
 > 🤗 - **Bem-Vindo(a)**
 >
 > Ao meu perfil do GitHub, aqui eu posto alguns dos meus códigos para vocês poderem pegar exemplos ou até mesmo edita-lós de acordo com oque vocês estão criando ai na máquina de vocês :D
