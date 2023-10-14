@@ -1,13 +1,8 @@
 # Olá, eu sou Roniere Marques 👋
 - Programar é como desenhar o futuro com linhas de código, onde cada bug é apenas uma oportunidade de aperfeiçoamento e cada desafio é um degrau mais alto em direção ao seu potencial ilimitado.
 > ```js
-> /* verifica se você esta no GitHub */
 > if (github === true) {
-> /* se esta mostra: "Foda-se" no console */
-> console.log('Foda-se');
-> } else {
-> /* se não estiver mostra: "wtf" no console */
-> console.log('wtf');
+> console.log('Welcome');
 > }
 > ```
 > 🤗 - **Bem-Vindo(a)**
