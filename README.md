@@ -44,7 +44,7 @@ Aqui estão algumas das tecnologias e habilidades em que sou experiente:
 - Frameworks e bibliotecas: React, Node.js
 - Banco de dados: MongoDB é MySQL.
 - Ferramentas de desenvolvimento: Git, VSCode, GitHub.
-- Outras habilidades: Marketing Digital
+- Outras habilidades: Marketing Digital, Hacking, Marketing de Conteúdo, Designer Web.
 
 ## Projetos
 
