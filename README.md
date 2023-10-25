@@ -1,5 +1,7 @@
 # Olá, eu sou Roniere Marques 👋
-- Programar é como desenhar o futuro com linhas de código, onde cada bug é apenas uma oportunidade de aperfeiçoamento e cada desafio é um degrau mais alto em direção ao seu potencial ilimitado.
+> [!IMPORTANT]  
+> Programar é como desenhar o futuro com linhas de código, onde cada bug é apenas uma oportunidade de aperfeiçoamento e cada desafio é um degrau mais alto em direção ao seu potencial ilimitado.
+
 > [!NOTE]
 > Hackers e programadores têm habilidades técnicas semelhantes, mas a diferença fundamental está no uso ético dessas habilidades: os programadores constroem o futuro, enquanto os hackers devem fazê-lo dentro dos limites legais.
 
